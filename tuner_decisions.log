@@ -1,0 +1,289 @@
+=== 2026-01-12 02:07:53 Adaptive run ===
+{
+  "timestamp": "2026-01-12T02:07:56",
+  "safe": true,
+  "reasons": [
+    "All monitored signals within safe thresholds"
+  ],
+  "snapshot": {
+    "cpu_total_pct": 0.3754693,
+    "load_1m": 0.0,
+    "ram_used_pct": 6.677734275578111,
+    "disk_used_pct": 0.29188134385526376,
+    "chart_ids": {
+      "cpu": "system.cpu",
+      "load": "system.load",
+      "ram": "system.ram",
+      "disk_space": "disk_space./"
+    }
+  },
+  "policy": {
+    "max_cpu_total_pct": 70.0,
+    "max_load_1m": 2.0,
+    "max_ram_used_pct": 85.0
+  }
+}
+[OK] Tuner says SAFE → running backup
+[2026-01-12 02:07:56] === Adaptive Backup Started ===
+[2026-01-12 02:07:56] System OK — running backup...
+[2026-01-12 02:07:56] 🎉 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_02-07-56.tar.gz
+=== 2026-01-12 02:09:42 Adaptive run ===
+{
+  "timestamp": "2026-01-12T02:09:42",
+  "safe": true,
+  "reasons": [
+    "All monitored signals within safe thresholds"
+  ],
+  "snapshot": {
+    "cpu_total_pct": 2.3555814,
+    "load_1m": 0.01,
+    "ram_used_pct": 6.6659192754685295,
+    "disk_used_pct": 0.29188301324191523,
+    "chart_ids": {
+      "cpu": "system.cpu",
+      "load": "system.load",
+      "ram": "system.ram",
+      "disk_space": "disk_space./"
+    }
+  },
+  "policy": {
+    "max_cpu_total_pct": 70.0,
+    "max_load_1m": 2.0,
+    "max_ram_used_pct": 85.0
+  }
+}
+[OK] Tuner says SAFE → running backup
+[2026-01-12 02:09:42] === Adaptive Backup Started ===
+[2026-01-12 02:09:42] System OK — running backup...
+[2026-01-12 02:09:42] 🎉 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_02-09-42.tar.gz
+=== 2026-01-12 02:14:44 Adaptive run ===
+{
+  "timestamp": "2026-01-12T02:14:45",
+  "safe": true,
+  "reasons": [
+    "All monitored signals within safe thresholds"
+  ],
+  "snapshot": {
+    "cpu_total_pct": 0.5141388,
+    "load_1m": 0.02,
+    "ram_used_pct": 7.117497005763608,
+    "disk_used_pct": 0.29195511500697596,
+    "chart_ids": {
+      "cpu": "system.cpu",
+      "load": "system.load",
+      "ram": "system.ram",
+      "disk_space": "disk_space./"
+    }
+  },
+  "policy": {
+    "max_cpu_total_pct": 70.0,
+    "max_load_1m": 2.0,
+    "max_ram_used_pct": 85.0
+  }
+}
+[OK] Tuner says SAFE → running backup
+[2026-01-12 02:14:45] === Adaptive Backup Started ===
+[2026-01-12 02:14:45] System OK — running backup...
+[2026-01-12 02:14:45] 🎉 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_02-14-45.tar.gz
+=== 2026-01-12 10:31:18 Adaptive run ===
+{
+  "timestamp": "2026-01-12T10:31:18",
+  "safe": true,
+  "reasons": [
+    "All monitored signals within safe thresholds"
+  ],
+  "snapshot": {
+    "cpu_total_pct": 0.5025126,
+    "load_1m": 0.0,
+    "ram_used_pct": 6.95888972104794,
+    "disk_used_pct": 0.29445637414349946,
+    "chart_ids": {
+      "cpu": "system.cpu",
+      "load": "system.load",
+      "ram": "system.ram",
+      "disk_space": "disk_space./"
+    }
+  },
+  "policy": {
+    "max_cpu_total_pct": 70.0,
+    "max_load_1m": 2.0,
+    "max_ram_used_pct": 85.0
+  }
+}
+[OK] Tuner says SAFE → running backup
+[2026-01-12 10:31:18] === Adaptive Backup Started ===
+[2026-01-12 10:31:18] System OK — running backup...
+[2026-01-12 10:31:18] 🎉 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_10-31-18.tar.gz
+=== 2026-01-12 10:32:12 Adaptive run ===
+{
+  "timestamp": "2026-01-12T10:32:12",
+  "safe": true,
+  "reasons": [
+    "All monitored signals within safe thresholds"
+  ],
+  "snapshot": {
+    "cpu_total_pct": 0.7518796,
+    "load_1m": 0.1,
+    "ram_used_pct": 6.985858923533117,
+    "disk_used_pct": 0.29445963930940067,
+    "chart_ids": {
+      "cpu": "system.cpu",
+      "load": "system.load",
+      "ram": "system.ram",
+      "disk_space": "disk_space./"
+    }
+  },
+  "policy": {
+    "max_cpu_total_pct": 70.0,
+    "max_load_1m": 2.0,
+    "max_ram_used_pct": 85.0
+  }
+}
+[OK] Tuner says SAFE → running backup
+[2026-01-12 10:32:12] === Adaptive Backup Started ===
+[2026-01-12 10:32:12] System OK — running backup...
+[2026-01-12 10:32:12] 🎉 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_10-32-12.tar.gz
+=== 2026-01-12 10:57:26 Adaptive run ===
+{
+  "timestamp": "2026-01-12T10:57:27",
+  "safe": true,
+  "reasons": [
+    "All monitored signals within safe thresholds"
+  ],
+  "snapshot": {
+    "cpu_total_pct": 0.3759399,
+    "load_1m": 0.05,
+    "ram_used_pct": 7.198355718576977,
+    "disk_used_pct": 0.29459334787451763,
+    "chart_ids": {
+      "cpu": "system.cpu",
+      "load": "system.load",
+      "ram": "system.ram",
+      "disk_space": "disk_space./"
+    }
+  },
+  "policy": {
+    "max_cpu_total_pct": 70.0,
+    "max_load_1m": 2.0,
+    "max_ram_used_pct": 85.0
+  }
+}
+[OK] Tuner says SAFE → running backup
+[2026-01-12 10:57:27] === Adaptive Backup Started ===
+[2026-01-12 10:57:27] System OK — running backup...
+[2026-01-12 10:57:27] 🎉 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_10-57-27.tar.gz
+=== 2026-01-12 11:01:19 Adaptive run ===
+{
+  "timestamp": "2026-01-12T11:01:20",
+  "safe": true,
+  "reasons": [
+    "All monitored signals within safe thresholds"
+  ],
+  "snapshot": {
+    "cpu_total_pct": 0.3759398,
+    "load_1m": 0.0,
+    "ram_used_pct": 7.221719586082571,
+    "disk_used_pct": 0.29462442750204254,
+    "chart_ids": {
+      "cpu": "system.cpu",
+      "load": "system.load",
+      "ram": "system.ram",
+      "disk_space": "disk_space./"
+    }
+  },
+  "policy": {
+    "max_cpu_total_pct": 70.0,
+    "max_load_1m": 2.0,
+    "max_ram_used_pct": 85.0
+  }
+}
+[OK] Tuner says SAFE → running backup
+[2026-01-12 11:01:20] === Adaptive Backup Started ===
+[2026-01-12 11:01:20] ❌ Load too high (2.66). Skipping.
+=== 2026-01-12 11:01:42 Adaptive run ===
+{
+  "timestamp": "2026-01-12T11:01:43",
+  "safe": true,
+  "reasons": [
+    "All monitored signals within safe thresholds"
+  ],
+  "snapshot": {
+    "cpu_total_pct": 0.5,
+    "load_1m": 0.0,
+    "ram_used_pct": 7.206802445039963,
+    "disk_used_pct": 0.2946444169174105,
+    "chart_ids": {
+      "cpu": "system.cpu",
+      "load": "system.load",
+      "ram": "system.ram",
+      "disk_space": "disk_space./"
+    }
+  },
+  "policy": {
+    "max_cpu_total_pct": 70.0,
+    "max_load_1m": 2.0,
+    "max_ram_used_pct": 85.0
+  }
+}
+[OK] Tuner says SAFE → running backup
+[2026-01-12 11:01:43] === Adaptive Backup Started ===
+[2026-01-12 11:01:43] System OK — running backup...
+[2026-01-12 11:01:43] 🎉 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_11-01-43.tar.gz
+=== 2026-01-12 11:01:59 Adaptive run ===
+{
+  "timestamp": "2026-01-12T11:01:59",
+  "safe": true,
+  "reasons": [
+    "All monitored signals within safe thresholds"
+  ],
+  "snapshot": {
+    "cpu_total_pct": 0.4993757,
+    "load_1m": 0.0,
+    "ram_used_pct": 7.0749677045687065,
+    "disk_used_pct": 0.2946444169174105,
+    "chart_ids": {
+      "cpu": "system.cpu",
+      "load": "system.load",
+      "ram": "system.ram",
+      "disk_space": "disk_space./"
+    }
+  },
+  "policy": {
+    "max_cpu_total_pct": 70.0,
+    "max_load_1m": 2.0,
+    "max_ram_used_pct": 85.0
+  }
+}
+[OK] Tuner says SAFE → running backup
+[2026-01-12 11:01:59] === Adaptive Backup Started ===
+[2026-01-12 11:01:59] System OK — running backup...
+[2026-01-12 11:01:59] 🎉 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_11-01-59.tar.gz
+=== 2026-01-12 13:29:49 Adaptive run ===
+{
+  "timestamp": "2026-01-12T13:29:50",
+  "safe": true,
+  "reasons": [
+    "All monitored signals within safe thresholds"
+  ],
+  "snapshot": {
+    "cpu_total_pct": 0.0,
+    "load_1m": 0.23,
+    "ram_used_pct": 7.452541410734538,
+    "disk_used_pct": 0.29782261543435595,
+    "chart_ids": {
+      "cpu": "system.cpu",
+      "load": "system.load",
+      "ram": "system.ram",
+      "disk_space": "disk_space./"
+    }
+  },
+  "policy": {
+    "max_cpu_total_pct": 70.0,
+    "max_load_1m": 2.0,
+    "max_ram_used_pct": 85.0
+  }
+}
+[OK] Tuner says SAFE → running backup
+[2026-01-12 13:29:50] === Adaptive Backup Started ===
+[2026-01-12 13:29:50] System OK — running backup...
+[2026-01-12 13:29:50] 🎉 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_13-29-50.tar.gz

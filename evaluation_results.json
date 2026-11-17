@@ -1,0 +1,116 @@
+{
+  "static": [
+    {
+      "cmd": [
+        "bash",
+        "./easy_backup.sh"
+      ],
+      "returncode": 0,
+      "duration_sec": 0.638,
+      "stdout_tail": "[2026-01-12 02:03:34] === Adaptive Backup Started ===\n[2026-01-12 02:03:35] System OK \u2014 running backup...\n[2026-01-12 02:03:35] \ud83c\udf89 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_02-03-35.tar.gz\n",
+      "stderr_tail": "tar: Removing leading `/' from member names\n",
+      "ts": "2026-01-12T02:03:35"
+    },
+    {
+      "cmd": [
+        "bash",
+        "./easy_backup.sh"
+      ],
+      "returncode": 0,
+      "duration_sec": 0.062,
+      "stdout_tail": "[2026-01-12 02:03:44] === Adaptive Backup Started ===\n[2026-01-12 02:03:44] System OK \u2014 running backup...\n[2026-01-12 02:03:44] \ud83c\udf89 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_02-03-44.tar.gz\n",
+      "stderr_tail": "tar: Removing leading `/' from member names\n",
+      "ts": "2026-01-12T02:03:44"
+    },
+    {
+      "cmd": [
+        "bash",
+        "./easy_backup.sh"
+      ],
+      "returncode": 0,
+      "duration_sec": 0.108,
+      "stdout_tail": "[2026-01-12 02:03:53] === Adaptive Backup Started ===\n[2026-01-12 02:03:53] System OK \u2014 running backup...\n[2026-01-12 02:03:53] \ud83c\udf89 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_02-03-53.tar.gz\n",
+      "stderr_tail": "tar: Removing leading `/' from member names\n",
+      "ts": "2026-01-12T02:03:53"
+    },
+    {
+      "cmd": [
+        "bash",
+        "./easy_backup.sh"
+      ],
+      "returncode": 0,
+      "duration_sec": 0.046,
+      "stdout_tail": "[2026-01-12 02:04:02] === Adaptive Backup Started ===\n[2026-01-12 02:04:03] System OK \u2014 running backup...\n[2026-01-12 02:04:03] \ud83c\udf89 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_02-04-03.tar.gz\n",
+      "stderr_tail": "tar: Removing leading `/' from member names\n",
+      "ts": "2026-01-12T02:04:03"
+    },
+    {
+      "cmd": [
+        "bash",
+        "./easy_backup.sh"
+      ],
+      "returncode": 0,
+      "duration_sec": 0.047,
+      "stdout_tail": "[2026-01-12 02:04:12] === Adaptive Backup Started ===\n[2026-01-12 02:04:12] System OK \u2014 running backup...\n[2026-01-12 02:04:12] \ud83c\udf89 Backup completed: /mnt/c/Users/mdwas/Backup/backup_2026-01-12_02-04-12.tar.gz\n",
+      "stderr_tail": "tar: Removing leading `/' from member names\n",
+      "ts": "2026-01-12T02:04:12"
+    }
+  ],
+  "adaptive": [
+    {
+      "cmd": [
+        "bash",
+        "./run_adaptive.sh"
+      ],
+      "returncode": 2,
+      "duration_sec": 0.005,
+      "stdout_tail": "",
+      "stderr_tail": "./run_adaptive.sh: line 2: set: pipefail\n: invalid option name\n",
+      "ts": "2026-01-12T02:04:21"
+    },
+    {
+      "cmd": [
+        "bash",
+        "./run_adaptive.sh"
+      ],
+      "returncode": 2,
+      "duration_sec": 0.02,
+      "stdout_tail": "",
+      "stderr_tail": "./run_adaptive.sh: line 2: set: pipefail\n: invalid option name\n",
+      "ts": "2026-01-12T02:04:30"
+    },
+    {
+      "cmd": [
+        "bash",
+        "./run_adaptive.sh"
+      ],
+      "returncode": 2,
+      "duration_sec": 0.004,
+      "stdout_tail": "",
+      "stderr_tail": "./run_adaptive.sh: line 2: set: pipefail\n: invalid option name\n",
+      "ts": "2026-01-12T02:04:39"
+    },
+    {
+      "cmd": [
+        "bash",
+        "./run_adaptive.sh"
+      ],
+      "returncode": 2,
+      "duration_sec": 0.006,
+      "stdout_tail": "",
+      "stderr_tail": "./run_adaptive.sh: line 2: set: pipefail\n: invalid option name\n",
+      "ts": "2026-01-12T02:04:48"
+    },
+    {
+      "cmd": [
+        "bash",
+        "./run_adaptive.sh"
+      ],
+      "returncode": 2,
+      "duration_sec": 0.007,
+      "stdout_tail": "",
+      "stderr_tail": "./run_adaptive.sh: line 2: set: pipefail\n: invalid option name\n",
+      "ts": "2026-01-12T02:04:57"
+    }
+  ]
+}
